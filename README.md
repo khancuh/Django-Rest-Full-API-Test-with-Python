@@ -1,4 +1,4 @@
-# Django-Rest-Full-API-Test-with-Python
+# Django-Rest-Full-API-Test-with-Postman
 
 #Django API PDF Upload project
 
